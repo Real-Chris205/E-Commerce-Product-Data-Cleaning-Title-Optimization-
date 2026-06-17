@@ -9,3 +9,5 @@
 
 #### The short title feature was created to provide a readable version of the title while retaining essential information.   Product titles were analyzed to identify key components such as product type, attributes, and important keywords. Repetitive and unnecessary words were removed using a combination of Find and Replace and Excel formulas. Excel functions such as Trim, Substitute, Left, and Proper were combined into a single formula to clean, standardize, and shorten the titles. The Proper function ensured consistent capitalization for improved readability. Titles were limited to 50 characters to maintain clarity and meet the required constraints.
 
+# Files
+https://github.com/Real-Chris205/E-Commerce-Product-Data-Cleaning-Title-Optimization-/blob/main/Data%20cleaning%20hng.xlsx
