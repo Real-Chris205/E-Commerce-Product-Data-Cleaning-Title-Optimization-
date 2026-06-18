@@ -45,3 +45,8 @@
 | Before | After |
 |--------|-------|
 |PRODUCT_ID | product_id|
+| TITLE | title |
+| BULLET_POINTS | bullet_points|
+| DESCRIPTION | description |
+| PRODUCTTYPEID | product_type_id |
+| Product_length | product_length |
