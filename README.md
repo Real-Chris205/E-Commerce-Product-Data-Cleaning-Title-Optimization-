@@ -50,3 +50,9 @@
 | DESCRIPTION | description |
 | PRODUCTTYPEID | product_type_id |
 | Product_length | product_length |
+
+### Step 2 : DUplicate Removal 
+#### product_id was used as the unique identifier. 306 duplicate records were identified and removed, reducing the dataset from 3,847 to 3,541 rows.
+
+### Step 3 : Missing Value Handling 
+#### A column-specific strategy was applied rather than dropping rows, to preserve as many records as possible:
