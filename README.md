@@ -14,7 +14,7 @@
 - <a href="https://github.com/Real-Chris205/E-Commerce-Product-Data-Cleaning-Title-Optimization-/blob/main/DATA%20CLEANING%20REPORT.pdf">Report</a>
 
 ## Dataset Overview 
-### Source : HNG Internship :
+### Source : HNG Internship : 
 
 | Column | Type | Description |
 |--------|------|-------------|
