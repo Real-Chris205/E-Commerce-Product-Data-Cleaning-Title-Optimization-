@@ -41,5 +41,7 @@
 ## Cleaning Process 
 ### Step 1 : Column Name Standardization
 #### All column names were reformatted to snake_case for consistency and downstream compatibility.
-| BEfore | After |
+
+| Before | After |
+|--------|-------|
 |PRODUCT_ID | product_id|
