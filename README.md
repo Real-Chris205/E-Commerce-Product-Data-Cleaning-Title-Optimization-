@@ -18,3 +18,4 @@
 
 | Column | Type | Description |
 |--------|------|-------------|
+| Product_id | Integer | Unique product Identifier |
