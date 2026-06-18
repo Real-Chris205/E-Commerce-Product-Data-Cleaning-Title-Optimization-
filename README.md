@@ -33,3 +33,5 @@
 | Rows   | 3847     | 3541         |
 | Column | 6        | 7            |
 | Missing Values | 4091 | 0    |
+| Duplicate Record | 306 | 0  |
+| Column Naming | ALLCAPS inconsistent | snake_case uniform |
