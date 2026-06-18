@@ -56,3 +56,5 @@
 
 ### Step 3 : Missing Value Handling 
 #### A column-specific strategy was applied rather than dropping rows, to preserve as many records as possible:
+| Column | Missing % | Strategy |
+|--------|===========|----------|
