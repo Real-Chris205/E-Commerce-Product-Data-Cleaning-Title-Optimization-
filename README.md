@@ -12,3 +12,9 @@
 # Files
 - <a href="https://github.com/Real-Chris205/E-Commerce-Product-Data-Cleaning-Title-Optimization-/blob/main/Data%20cleaning%20hng.xlsx">Cleaned_data</a>
 - <a href="https://github.com/Real-Chris205/E-Commerce-Product-Data-Cleaning-Title-Optimization-/blob/main/DATA%20CLEANING%20REPORT.pdf">Report</a>
+
+## Dataset Overview 
+### Source : HNG Internship :
+
+| Column | Type | Description |
+|--------|------|-------------|
