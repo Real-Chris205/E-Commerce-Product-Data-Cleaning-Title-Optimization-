@@ -19,3 +19,5 @@
 | Column | Type | Description |
 |--------|------|-------------|
 | Product_id | Integer | Unique product Identifier |
+| Title | Text | Full original product title |
+| Shortt_title | Text | Engineered column - SEO- Optimized title (<= 50 characters |
