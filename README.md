@@ -38,3 +38,8 @@
 
 ##### The total missing value count (4,091) exceeds the row count because some rows had missing values in more than one column simultaneously. description was 55.75% missing; bullet_points was 41.37% missing.
 
+## Cleaning Process 
+### Step 1 : Column Name Standardization
+#### All column names were reformatted to snake_case for consistency and downstream compatibility.
+| BEfore | After |
+|PRODUCT_ID | product_id|
