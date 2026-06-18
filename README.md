@@ -21,3 +21,7 @@
 | Product_id | Integer | Unique product Identifier |
 | Title | Text | Full original product title |
 | Shortt_title | Text | Engineered column - SEO- Optimized title (<= 50 characters |
+| bullet_points | Text | Product feature highlights |
+| description | Text | Full product description |
+| product_type_id | Integer | Product category identifier |
+| product_length | Numeric | Product length measurement |
