@@ -26,3 +26,10 @@
 | description | Text | Full product description |
 | product_type_id | Integer | Product category identifier |
 | product_length | Numeric | Product length measurement |
+
+## Data Quality Summary 
+| Metric | Raw data | Cleaned data |
+|--------|----------|--------------|
+| Rows   | 3847     | 3541         |
+| Column | 6        | 7            |
+| Missing Values | 4091 | 0    |
